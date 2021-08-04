@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hasibul
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently Work With React JS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
