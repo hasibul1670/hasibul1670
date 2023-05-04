@@ -1,7 +1,11 @@
 {
+  "tabnine.experimentalAutoImports": true,
+  "files.autoSave": "afterDelay",
+  "editor.mouseWheelZoom": true,
+  "json.schemas": [],
   // editor
-  "editor.fontSize": 20,
-  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontSize": 22,
+  "editor.fontFamily": "Operator Mono,Fira Code",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
@@ -10,13 +14,14 @@
       {
         "scope": "comment",
         "settings": {
-          "fontStyle": "italic"
+          "fontStyle": ""
         }
       }
     ]
   },
+  "window.zoomLevel": -1,
   // cursor
-  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorBlinking": "expand",
   // config related to code formatting
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -36,11 +41,10 @@
   },
   "eslint.alwaysShowStatus": true,
   //terminal
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 18,
   "terminal.integrated.fontWeight": "normal",
-  "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
-  "workbench.colorTheme": "Community Material Theme Darker High Contrast",
-  "workbench.iconTheme": "vscode-icons",
+  "terminal.integrated.fontFamily": "Operator Mono,Fira Code",
+  "workbench.iconTheme": "material-icon-theme",
   // terminal customization
   "workbench.colorCustomizations": {
     "terminal.background": "#1D2021",
@@ -63,5 +67,6 @@
     "terminal.ansiRed": "#FB543F",
     "terminal.ansiWhite": "#A89984",
     "terminal.ansiYellow": "#FAC03B"
-  }
+  },
+  "workbench.colorTheme": "One Dark Pro Darker"
 }
