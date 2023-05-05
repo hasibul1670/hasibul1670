@@ -3,7 +3,7 @@
 I'm Hasibul Islam And I'm A Web Developer.
 I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
 
-Skills:  REACT /Next Js /Nest Js /Express /MongoDB /SQL
+Skills:  React /Next Js /Nest Js /Express /MongoDB /SQL
 
 - 🔭 I’m currently working on  I’m currently Work With Next JS & Nest Js 
 
