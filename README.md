@@ -10,7 +10,7 @@ Skills:  React /Next Js /Node /Express /MongoDB /SQL
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibul-islam-6060541b3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasibulcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasibul-islam365.netlify.app/)  
+[<img src='https://simpleicons.org/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(63%) sepia(59%) saturate(2758%) hue-rotate(219deg) brightness(96%) contrast(85%);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/hasibul-islam-6060541b3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hasibulcse)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://hasibul-islam365.netlify.app/)  
 
 
 [<img src='https://simpleicons.org/icons/github.svg' alt='github' height='40' style='filter: invert(63%) sepia(59%) saturate(2758%) hue-rotate(219deg) brightness(96%) contrast(85%);'>](https://github.com/hasibul1670) 
