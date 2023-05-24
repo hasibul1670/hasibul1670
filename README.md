@@ -7,6 +7,12 @@ Skills:  React /Next Js /Node /Express /MongoDB /SQL
 
 - 🔭 I’m currently working on  I’m currently Work With Next JS & Node Js
 
+TypeScript   11 hrs 55 mins  ████████████████████▓░░░░   82.24 %
+JSON         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
+SCSS         40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+HTML         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Bash         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul1670)](https://github.com/anuraghazra/github-readme-stats)
 
