@@ -3,7 +3,7 @@
 I'm Hasibul Islam And I'm MERN Stack Web Developer.
 I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
 
-Skills:  React /Next Js /Node /Express /MongoDB /SQL
+Skills:  React | Next Js | NodeJs | ExpressJs | MongoDB 
 
 - 🔭 I’m currently working on  I’m currently Work With Next JS & Node Js
 
@@ -19,4 +19,4 @@ Skills:  React /Next Js /Node /Express /MongoDB /SQL
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibul1670)  
 
-![Profile views](https://gpvc.arturio.dev/hasibul1670)  
+
