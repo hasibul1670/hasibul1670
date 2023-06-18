@@ -19,7 +19,6 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
   "name": "Hasibul Islam",
   "profession": "MERN Stack Web Developer",
   "skills": [
-  "skills": [
     "typescript",
     "JavaScript",
     "TypeScript",
