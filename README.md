@@ -11,7 +11,8 @@ Skills:  React | Next Js | NodeJs | ExpressJs | MongoDB
 {
   "name": "Hasibul Islam",
   "profession": "MERN Stack Web Developer",
-  "bio": "I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.",
+   "bio": "I count myself as a hardworking person.\nTo pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.",
+  "skills": [
   "skills": [
     "typescript",
     "JavaScript",
