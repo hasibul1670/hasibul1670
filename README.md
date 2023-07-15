@@ -41,6 +41,4 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
 ![GitHub metrics](https://metrics.lecoq.io/hasibul1670)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibul1670)  
-
 
