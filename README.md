@@ -4,12 +4,13 @@ I'm Hasibul Islam And I'm MERN Stack Web Developer.
 I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
 
 #### Skills:
+- Typescript
 - React
 - Next Js
 - NodeJs
 - ExpressJs
 - MongoDB
-
+- PostgreSQL
 
 
 #### 🔭 I’m currently working on  I’m currently Work With Next JS & Node JS
@@ -22,9 +23,11 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
     "JavaScript",
     "TypeScript",
     "React",
+    "NextJs",
     "NodeJs",
     "ExpressJs",
     "MongoDB"
+    "PostgreSQL"
   ],
   "currentWork": "I’m currently working on Next JS & Node Js"
 }
