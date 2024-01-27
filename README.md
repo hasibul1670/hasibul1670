@@ -41,7 +41,6 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul1670)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://img.shields.io/github/languages/top/hasibul1670/hasibul1670)](https://github.com/hasibul1670/hasibul1670)
 
 
 
