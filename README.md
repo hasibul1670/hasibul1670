@@ -44,7 +44,14 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul1670)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hasibul1670&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasibul1670)  
+
+![GitHub metrics](https://metrics.lecoq.io/hasibul1670)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hasibul1670)  
+
+![Profile views](https://gpvc.arturio.dev/hasibul1670)  
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibul1670&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
