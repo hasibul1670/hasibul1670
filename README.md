@@ -1,7 +1,7 @@
 ### 👋 Hi,I’m Hasibul Islam
 ####  I’m interested in Web Development
-I'm Hasibul Islam And I'm MERN Stack Web Developer.
-I count myself as a hardworking person. To pursue a challenging career in a competitive world where enthusiasm, honesty, hard work and passion will support me to grow myself as well as utilize my knowledge and expertise for professional development in the relevant field.
+
+"I'm Hasibul Islam, a dynamic Full Stack Web Developer passionate about innovation. With expertise in JavaScript, TypeScript, Java, React, NextJs, NodeJs, NestJs, ExpressJs, MongoDB, and PostgreSQL, I thrive in challenging environments. Committed to excellence, I bring a unique blend of skills and dedication to redefine web development standards. Let's embark on a journey where passion meets proficiency, creating cutting-edge web experiences together."
 
 #### Skills:
 <p align="center">
