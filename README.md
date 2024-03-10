@@ -15,7 +15,6 @@ I count myself as a hardworking person. To pursue a challenging career in a comp
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248.svg" alt="MongoDB" width="120" height="40" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791.svg" alt="PostgreSQL" width="120" height="40" /></a>
   <a href="https://nestjs.com/" target="_blank"><img src="https://img.shields.io/badge/NestJS-E0234E.svg" alt="NestJS" width="120" height="40" /></a>
-  <a href="https://developer.microsoft.com/en-us/sharepoint" target="_blank"><img src="https://img.shields.io/badge/SharePoint-0078D4.svg" alt="SharePoint" width="120" height="40" /></a>
 </p>
 
 #### 🔭 I’m currently working on  I’m currently Work With Next JS & Node JS
