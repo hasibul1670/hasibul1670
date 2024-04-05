@@ -4,7 +4,7 @@
 #### Skills:
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg" alt="JavaScript" width="120" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript-007ACC.svg" alt="Typescript" width="120" height="40" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/JAVA-007ACC.svg" alt="JAVA" width="120" height="40" /></a>
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB.svg" alt="React" width="120" height="40" /></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000.svg" alt="NextJs" width="120" height="40" /></a>
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933.svg" alt="NodeJs" width="120" height="40" /></a>
