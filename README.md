@@ -20,14 +20,11 @@
   "skills": [
     "JavaScript",
     "TypeScript",
-    "Nest Js",
     "React",
     "NextJs",
     "NodeJs",
-    "NestJs",
     "ExpressJs",
     "MongoDB"
-    "PostgreSQL"
   ],
   "currentWork": "I’m currently working on Next JS & Node Js"
 }
