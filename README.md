@@ -7,7 +7,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=363636&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Full+Stack+Engineer;JavaScript+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=363636&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Full+Stack+Engineer;JavaScript+Enthusiast" />
 </h3>
 
 <div align="center">
