@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:363636,100:000000&height=200&section=header&text=Hasibul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasibul1670&style=for-the-badge&color=000000" alt="profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=header&text=Hasibul%20Islam&fontSize=60&fontColor=ffffff&animation=twinkling" />
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=363636&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Full+Stack+Engineer;JavaScript+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=FFFFFF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Creative+Engineer;Tech+Explorer;JavaScript+Enthusiast;Mastering+ES6%2B+Features;Building+with+React+and+Node.js" />
 </h3>
+
+
 
 <div align="center">
   <h2>🚀 Tech Stack & Tools</h2>
@@ -75,7 +73,7 @@
 
 <div align="center">
   <h2>🔭 Current Focus</h2>
-  <p>I'm currently working on advanced Next.js and Node.js projects to enhance my full-stack development skills.</p>
+  <p>I'm currently working on advanced ASP.NET , NestJs , Angular projects to enhance my full-stack development skills.</p>
 </div>
 
 <div align="center">
